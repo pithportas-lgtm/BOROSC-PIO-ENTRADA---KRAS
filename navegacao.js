@@ -7,11 +7,8 @@
    ============================================================ */
 
 var KRAS_CAMERAS = [
-  { pasta: 'MINIE',        nome: 'MiniE' },
-  { pasta: 'MINI2 V2',     nome: 'Mini2 V2' },
-  { pasta: 'MINI2PLUS V2', nome: 'Mini2 Plus V2' },
-  { pasta: 'MINIX',        nome: 'MiniX' },
-  { pasta: 'MINI3',        nome: 'Mini3' }
+  { pasta: 'KP-MI800',        nome: 'KP-MI800' },
+  { pasta: 'WF010-WIFI',     nome: 'WF010-WIFI' },
 ];
 
 (function () {
